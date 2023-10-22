@@ -23,3 +23,10 @@ elliotthuge.dev is inspired by:
 This site, and some of its content*, was built with the assistance of generative AI.
 
 *_I intend to make a post about an AI declaration 'standard', e.g. marking pure-human origin content with `Hu`._
+
+## Posts:
+
+{% for post in site.posts %}
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
