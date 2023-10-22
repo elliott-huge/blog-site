@@ -20,7 +20,7 @@ This came about because ChatGPT 4 couldn't answer to my below query (this was ch
 
 *For those curious, the correct answer is '[Gongoozler](https://en.wikipedia.org/wiki/Gongoozler)'*
 
-Anyway, here's the concept:
+Anyway, here's the concept:  
 **An app, web-app, extension - whatever - for automatically performing a *rigorous* search for a query.**  
 * User inputs a search, e.g. 'Word for [example activity]'
 * LLM is first prompted to describe the nature of the search, in this case 'seeking a word to match a definition'
