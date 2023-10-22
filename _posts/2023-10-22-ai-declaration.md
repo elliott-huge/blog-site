@@ -1,3 +1,8 @@
+---
+layout: post
+title: AI Declaration
+---
+
 # An AI content declaration standard
 
 `Hu`
