@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Idea; LLM + Search engine for high-confidence answers
-excerpt: blah
+excerpt: ChatGPT, BingChat and Bard have all integrated web search to their LLMs, but it seems imperfectly implemented. That is, imperfect in terms of answer and search quality; the chosen method may suffice for majority of queries and may be cost-effective for each provider. I am admittedly clueless on the implementation details, mind...
 ---
 
 # LLM + Search engine for high-confidence answers
