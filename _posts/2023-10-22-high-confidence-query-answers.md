@@ -6,6 +6,8 @@ excerpt: ChatGPT, BingChat and Bard have all integrated web search to their LLMs
 
 # LLM + Search engine for high-confidence answers
 
+![Oil painting of people watching boaters operate a canal lock - also known as 'gongoozlers'. AI generated using Bing Image Creator](/assets\images\gongoozlers.jpg)
+
 `Hu`
 
 ChatGPT, BingChat and Bard have all integrated web search to their LLMs, but it seems imperfectly implemented. That is, imperfect in terms of answer and search quality: the chosen method may suffice for majority of queries and may be cost-effective for each provider. I am admittedly clueless on the implementation details, mind...
