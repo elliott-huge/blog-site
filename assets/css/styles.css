@@ -7,6 +7,8 @@ body {
   color: #333;
   margin: auto;
   max-width: 70ch;
+  box-sizing: border-box;
+  padding: 0 8px;
 }
 
 h1, h2, h3 {
@@ -44,4 +46,27 @@ a {
 a:hover, a:focus {
   color: #202667;
   text-decoration: underline;
+}
+
+.content a:focus {
+    background-color: yellow;
+    color: black;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+  
+.content ::-moz-selection {
+    background-color: yellow;
+    color: black;
+}
+
+.content ::selection {
+    background-color: yellow;
+    color: black;
+}
+
+body img {
+    margin: auto;
+    max-width: 50ch;
+    height: auto;
 }
