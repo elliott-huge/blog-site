@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AI Declaration
+excerpt: Since generative AI models became mainstream, even of bot-origin, there has been a deluge of pure AI and AI assisted 'original' content published.
 ---
 
 # An AI content declaration standard
