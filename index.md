@@ -28,5 +28,5 @@ This site, and some of its content*, was built with the assistance of generative
 
 {% for post in site.posts %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p>{{ post.excerpt | truncatewords: 50 }}</p>
+  <p>{{ post.excerpt | truncatewords: 20 }}</p>
 {% endfor %}
