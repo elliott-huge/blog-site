@@ -1,1 +1,56 @@
- 
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@600&family=Oxygen:wght@700&display=swap");
+
+body {
+  font-family: Roboto, sans-serif;
+  background-color: rgb(239, 239, 239);
+  color: #333;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+p, li {
+  font-size: 19px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  line-height: 1.2;
+}
+
+li:before {
+  font-family: "IBM Plex Mono", monospace;
+  content: ">";
+  margin-right: 0.5rem;
+}
+
+a {
+  color: #3657ba;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #202667;
+  text-decoration: underline;
+}

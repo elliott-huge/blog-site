@@ -2,12 +2,12 @@
 
 ## Computer Scientist turned UX Designer.
 
-I use this website primarily for blogging my thoughts and ideas.
+I use this website primarily for blogging my thoughts and ideas.  
 elliotthuge.dev is inspired by:
-* NoBoilerPlate
-* The Cult of Done '*manifesto*'
-* gwern.net
-* A general obsession with Markdown
+* [NoBoilerPlate](https://www.youtube.com/@NoBoilerplate) / [0atman](https://www.0atman.com/) / Tristram Oaten
+* The [Cult of Done '*manifesto*'](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13) - especially item 12
+* [gwern.net](https://gwern.net/)
+* A general obsession with [Markdown]()
 
 ### Disclaimers:
 
