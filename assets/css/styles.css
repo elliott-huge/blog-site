@@ -9,6 +9,7 @@ body {
   max-width: 70ch;
   box-sizing: border-box;
   padding: 0 8px;
+  margin-top: 32px;
 }
 
 h1, h2, h3 {
