@@ -11,11 +11,12 @@ elliotthuge.dev is inspired by:
 
 ### Disclaimers:
 
-* Not advocating for anyone or anything mentioned here by their presence or omission unless explicitly said so
-* Opinions own
-* Content on this website may not reflect my true or current beliefs or opinions
-* Content on this website may sustain for archival reasons
-* I will make no obligations or promises regarding the existence, future, content or purpose of this website
+* Not advocating for anyone or anything mentioned here by their presence or omission unless explicitly said so.
+* Opinions here are not reflective of those of my employer, associates, peers etc.
+* Content on this website may not reflect my true or current beliefs or opinions, e.g. satire.
+* Content on this website may sustain for archival reasons.
+* I will make no obligations or promises regarding the existence, future, content or purpose of this website.
+* Everything on this site, including the site itself, is a draft.
 
 ### AI content declaration:
 
