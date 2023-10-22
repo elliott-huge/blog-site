@@ -32,18 +32,8 @@ p, li {
   margin-bottom: 0.5em;
 }
 
-ul {
-  list-style-type: none;
-}
-
 li {
   line-height: 1.2;
-}
-
-li:before {
-  font-family: "IBM Plex Mono", monospace;
-  content: ">";
-  margin-right: 0.5rem;
 }
 
 a {
