@@ -14,9 +14,9 @@ ChatGPT, BingChat and Bard have all integrated web search to their LLMs, but it 
 
 This came about because ChatGPT 4 couldn't answer to my below query (this was chat only mode, it may admittedly have succeeded with Bing search enabled):
 
-`EL: Word for observing river boaters especially at a lock`
+>EL: Word for observing river boaters especially at a lock
 
-`GPT4: As of my last training data in January 2022, there isn't a specific single word in the English language that exclusively describes the act of observing river boaters [...]`
+>GPT4: As of my last training data in January 2022, there isn't a specific single word in the English language that exclusively describes the act of observing river boaters [...]
 
 *For those curious, the correct answer is '[Gongoozler](https://en.wikipedia.org/wiki/Gongoozler)'*
 
