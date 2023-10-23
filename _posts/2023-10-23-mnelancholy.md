@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mnelancholy
-excerpt: \*noun* - a feeling of pensive sadness that originates from one or more memories.
+excerpt: "*noun* - a feeling of pensive sadness that originates from one or more memories."
 ---
 
 # Mnelancholy
