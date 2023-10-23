@@ -49,19 +49,19 @@ a:hover, a:focus {
   text-decoration: underline;
 }
 
-.content a:focus {
+a:focus {
     background-color: yellow;
     color: black;
     text-decoration: underline;
     text-decoration-thickness: 3px;
 }
   
-.content ::-moz-selection {
+::-moz-selection {
     background-color: yellow;
     color: black;
 }
 
-.content ::selection {
+::selection {
     background-color: yellow;
     color: black;
 }
