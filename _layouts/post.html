@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="preload" href="/assets/css/styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/assets/css/styles.css"></noscript>
     <title>
         {% if page.title %}
             {{ page.title }} - 
         {% endif %}
         {{ site.title }}
     </title>
-
+    <style>
+        {% include critical-css.html %}
+    </style>
 </head>
 
 <a href="/">Return</a>
