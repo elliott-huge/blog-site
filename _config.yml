@@ -1,1 +1,3 @@
 title: elliotthuge.dev
+plugins:
+  - jekyll-sitemap
